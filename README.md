@@ -1,1 +1,2 @@
-# cre-are.app
+# cre-are
+## This contains the project cre-are
